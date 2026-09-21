@@ -9,6 +9,8 @@ jsDelivr caches `@main` for up to a day; to make a replaced file show at once, r
 |---|---|---|---|
 | `hero/coffee-matcha-1080.mp4` | clip 1, the coffee and matcha station, from the 6 s mark of the master | 2.0 s | 0.8 MB |
 | `hero/coffee-matcha-720.mp4` | the same at 720p, for phones | 2.0 s | 0.3 MB |
+| `hero/wedding-organised-1080.mp4` | clip 2, the organised Emirati wedding hall, whole | 8.0 s | see below |
+| `hero/wedding-organised-720.mp4` | the same at 720p, for phones | 8.0 s | see below |
 
 Masters with audio stay in the founders' Drive.
 
